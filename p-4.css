@@ -28,3 +28,13 @@
     /* margin: 30px; */
     padding: 30px;
 }
+.butcl{
+    background-color: mediumseagreen;
+    /* color: brown; */
+    box-shadow: 5px 5px 9px orange;
+}
+.spibtn{
+    background-color: cornflowerblue;
+    box-shadow: 5px 5px 8px  orangered;
+    
+}
